@@ -11,4 +11,4 @@ export const environmentsComponent = (element) => {
     `;
     element.innerHTML = html;
 
-}
+};
